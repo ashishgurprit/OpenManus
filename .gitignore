@@ -197,3 +197,7 @@ cython_debug/
 
 # OSX
 .DS_Store
+
+# Streamlined Development - Claude Code configuration
+# These files are synced from a private master repo
+.claude/
